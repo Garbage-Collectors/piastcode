@@ -1,0 +1,30 @@
+﻿Kościół katedralny Świętego Krzyża|50,670278|17,920278
+Kościół Świętej Trójcy|50,6675|17,922
+Kościół Matki Boskiej Bolesnej i św. Wojciecha|50,66889|17,9252778
+Kościół św. Sebastioana|50,67061667|17,9219611
+Kościół św. Aleksego|50,6693667|17,9195944
+Kościół Świętych Apostołów Piora i Pawła|50,666944|17,9411
+Wieża Piastowska|50,66722|17,9191667
+Rartusz|50,66833|17,922
+Wieża ciśnień|50,67611|17,931666944
+Stara synagoga|50,6680556|17,9211
+Cmentarz żydowski|50,65613889|17,932778
+Dworzec Głowny|50,6613889|17,92667
+Gmach Poczty Polskiej|50,66275|17,92530556
+Mały Rynek:|50,668116|17,924526
+Muzeum Śląska Opolskiego|50,66896|17,924733
+Pomnik Żołnierzy Wyklętych|50,666591|17,923519
+Filharmonia Opolska im. Józefa Elsnera|50,665885|17,923784
+Most groszowy|50,665885|17,923184
+Ogród zoologiczny|50,655755|17,925346
+Park na osiedlu Armii Krajowej|50,678176|17,951593
+Okrąglak|50,677662|17,938408
+Stadion Odry Opole|50,675524|17,933309
+Cmentarz ewangelicko-augsburski|50,674755|17,906664
+Kościół bł. Czesława|50,666814|17,893468
+10 Opolska Brygada Logistyczna im. płka Piotra Wysockiego|50,6663889|17,89122
+Kościół św. Józefa|50,65448|17,904604
+Centrum Wystwawienniczo Kongresowe|50,683318|17,811896
+Kampus Uniwersytetu Opolskiego:|50,973188|17,930883
+Narodowe Centrum Polskiej Piosenki|50,667425|17,917385
+Stadion Żużlowy|50,659697|17,959244
